@@ -1,0 +1,4 @@
+Version01 was with lying (back, left, right, back) 15s each, will not be used(?).
+
+Version01_2 see presentation "Human activity recognition" under G-drive: 
+https://drive.google.com/drive/u/1/folders/1LGLPM1OoP8ohowm47lkoP013dyZAekPb
