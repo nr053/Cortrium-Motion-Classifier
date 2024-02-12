@@ -9,3 +9,10 @@ The model class is defined in thresholding/model.py
 The data class takes a path to an edf file and outputs an array of calibrated data split into windows. 
 
 The calibration procedure uses the first minute to detect the orientation of the device and assumes that for the first minute of the recording the patient is upright.
+
+
+To run the model: 
+
+python classifymotion.py <path to edf file>
+
+
