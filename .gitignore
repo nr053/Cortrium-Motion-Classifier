@@ -1,2 +1,4 @@
 *.png
 *.csv
+venv/
+Acc_model_test_dataset/
